@@ -7,14 +7,56 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo_plain.svg"
+   inkscape:export-filename="E:\Rafael\OneDrive - PUCRS - BR\2021-2\Disciplina Integradora I\Apresentação 2\logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-center="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:zoom="0.5499273"
+     inkscape:cx="274.58175"
+     inkscape:cy="339.13574"
+     inkscape:window-width="1284"
+     inkscape:window-height="1081"
+     inkscape:window-x="3347"
+     inkscape:window-y="109"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g6064"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5194" />
+  </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1454">
+       id="g1454"
+       inkscape:export-filename="E:\Rafael\OneDrive - PUCRS - BR\2021-2\Disciplina Integradora I\Apresentação 2\g1454.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          style="fill:#12ccff;stroke:#ffffff;stroke-opacity:1;fill-opacity:1"
          id="g169"
@@ -38,6 +80,7 @@
           <path
              d="m 50.026,221.666 v -77.064 c 0,-4.142 -3.357,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 84.564 c 0,4.142 3.357,7.5 7.5,7.5 h 56.377 56.379 56.373 c 4.143,0 7.5,-3.358 7.5,-7.5 v -84.564 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 77.064"
              id="path647"
+             sodipodi:nodetypes="csssssccsssssc"
              style="fill:#ffffff;fill-opacity:1" />
           <path
              d="M 251.985,139.298 132.389,19.712 c -2.928,-2.929 -7.677,-2.928 -10.607,0 L 2.197,139.298 c -2.929,2.929 -2.929,7.678 0,10.606 2.93,2.929 7.678,2.929 10.607,0 L 127.086,35.622 241.379,149.905 c 1.464,1.464 3.384,2.196 5.303,2.196 1.919,0 3.839,-0.732 5.304,-2.197 2.928,-2.928 2.928,-7.677 -10e-4,-10.606 z"
@@ -109,7 +152,10 @@
     <g
        id="g5284"
        transform="translate(71.018041)"
-       style="fill:#12ccff;fill-opacity:1">
+       style="fill:#12ccff;fill-opacity:1"
+       inkscape:export-filename="E:\Rafael\OneDrive - PUCRS - BR\2021-2\Disciplina Integradora I\Apresentação 2\g5284.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          style="fill:#12ccff;fill-opacity:1;stroke:#12ccff;stroke-opacity:1"
          id="g1458"
@@ -133,6 +179,7 @@
           <path
              d="m 50.026,221.666 v -77.064 c 0,-4.142 -3.357,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 84.564 c 0,4.142 3.357,7.5 7.5,7.5 h 56.377 56.379 56.373 c 4.143,0 7.5,-3.358 7.5,-7.5 v -84.564 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 77.064"
              id="path1460"
+             sodipodi:nodetypes="csssssccsssssc"
              style="fill:#ffffff;fill-opacity:1" />
           <path
              d="M 251.985,139.298 132.389,19.712 c -2.928,-2.929 -7.677,-2.928 -10.607,0 L 2.197,139.298 c -2.929,2.929 -2.929,7.678 0,10.606 2.93,2.929 7.678,2.929 10.607,0 L 127.086,35.622 241.379,149.905 c 1.464,1.464 3.384,2.196 5.303,2.196 1.919,0 3.839,-0.732 5.304,-2.197 2.928,-2.928 2.928,-7.677 -10e-4,-10.606 z"
@@ -203,7 +250,10 @@
     </g>
     <g
        id="g5328"
-       transform="translate(143.6678)">
+       transform="translate(143.6678)"
+       inkscape:export-filename="E:\Rafael\OneDrive - PUCRS - BR\2021-2\Disciplina Integradora I\Apresentação 2\g5328.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          style="fill:#12ccff;fill-opacity:1;stroke:#12ccff;stroke-opacity:1"
          id="g5288"
@@ -224,7 +274,8 @@
            id="g5294">
           <path
              d="m 50.026,221.666 v -77.064 c 0,-4.142 -3.357,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 84.564 c 0,4.142 3.357,7.5 7.5,7.5 h 56.377 56.379 56.373 c 4.143,0 7.5,-3.358 7.5,-7.5 v -84.564 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 77.064"
-             id="path5290" />
+             id="path5290"
+             sodipodi:nodetypes="csssssccsssssc" />
           <path
              d="M 251.985,139.298 132.389,19.712 c -2.928,-2.929 -7.677,-2.928 -10.607,0 L 2.197,139.298 c -2.929,2.929 -2.929,7.678 0,10.606 2.93,2.929 7.678,2.929 10.607,0 L 127.086,35.622 241.379,149.905 c 1.464,1.464 3.384,2.196 5.303,2.196 1.919,0 3.839,-0.732 5.304,-2.197 2.928,-2.928 2.928,-7.677 -10e-4,-10.606 z"
              id="path5292" />
@@ -274,6 +325,110 @@
         <g
            id="g5324">
 </g>
+      </g>
+    </g>
+    <g
+       id="g6064"
+       inkscape:export-filename="E:\Rafael\OneDrive - PUCRS - BR\2021-2\Disciplina Integradora I\Apresentação 2\g1454.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(0,62.546146)">
+      <g
+         id="g9187"
+         inkscape:export-filename="E:\Rafael\OneDrive - PUCRS - BR\2021-2\Disciplina Integradora I\Apresentação 2\g9187.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <g
+           style="fill:#12ccff;fill-opacity:1;stroke:#12ccff;stroke-width:0.901848;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="g6024"
+           transform="matrix(1.7837855,0,0,1.7837855,76.161262,67.869393)">
+          <path
+             d="m -23.960857,14.175809 1.876373,-8.4436777 h 7.036398 l -1.40728,5.6290337 h 3.752745 l -8.443677,11.258321 1.40728,-8.443677 z"
+             stroke="#000000"
+             stroke-width="1.87637"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path6022"
+             style="fill:#12ccff;fill-opacity:1;stroke:#12ccff;stroke-width:0.901848;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+        </g>
+        <g
+           id="g6062"
+           transform="matrix(0.26458333,0,0,0.26458333,9.8351652,53.636776)"
+           style="fill:#ffffff;fill-opacity:1">
+          <g
+             id="g6030"
+             style="fill:#ffffff;fill-opacity:1">
+            <path
+               d="m 50.026563,221.666 v -77.064 c 0,-4.142 -3.357,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 84.564 c 0,4.142 3.357,7.5 7.5,7.5 h 56.377 56.378997 56.373 c 4.143,0 7.5,-3.358 7.5,-7.5 v -84.564 c 0,-4.142 -3.358,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 77.064"
+               id="path6026"
+               sodipodi:nodetypes="csssssccsssssc"
+               style="fill:#ffffff;fill-opacity:1" />
+            <path
+               d="M 251.985,139.298 132.389,19.712 c -2.928,-2.929 -7.677,-2.928 -10.607,0 L 2.197,139.298 c -2.929,2.929 -2.929,7.678 0,10.606 2.93,2.929 7.678,2.929 10.607,0 L 127.086,35.622 241.379,149.905 c 1.464,1.464 3.384,2.196 5.303,2.196 1.919,0 3.839,-0.732 5.304,-2.197 2.928,-2.928 2.928,-7.677 -10e-4,-10.606 z"
+               id="path6028"
+               style="fill:#ffffff;fill-opacity:1" />
+          </g>
+          <g
+             id="g6032"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6034"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6036"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6038"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6040"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6042"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6044"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6046"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6048"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6050"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6052"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6054"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6056"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6058"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+          <g
+             id="g6060"
+             style="fill:#ffffff;fill-opacity:1">
+</g>
+        </g>
       </g>
     </g>
   </g>
